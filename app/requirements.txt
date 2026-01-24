@@ -33,7 +33,7 @@ pl-core-news-lg @ https://github.com/explosion/spacy-models/releases/download/pl
 pl-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/pl_core_news_sm-3.5.0/pl_core_news_sm-3.5.0-py3-none-any.whl
 preshed==3.0.8
 psycopg2==2.9.5
-pyasn1==0.4.8
+pyasn1==0.6.2
 pycparser==2.21
 pydantic==1.10.2
 python-dotenv==0.21.0
